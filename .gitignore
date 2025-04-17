@@ -1,0 +1,58 @@
+
+# Python virtual environments and their dependencies
+venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod] # CPython
+*.pyc
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Model checkpoints and data files
+*.pth
+*.pt
+*.ckpt
+
+# Project specific files and directories 
+data/
+*.png
+training_history.png
+predictions.png
+
+# Editor and IDE files and directories
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook checkpoints and history files
+.ipynb_checkpoints
+
+# System specific files
+.DS_Store
+Thumbs.db
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
